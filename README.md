@@ -4,5 +4,7 @@
 ## I also prepared the bar chart which showcase the distribution of medal amongs top 10 players.
 
 
-![image](Uploading Olympic_games_data_analysis.PNG…)
+
+![Olympic_games_data_analysis](https://user-images.githubusercontent.com/108218856/233149123-1e2b2a7b-f082-41a5-ab29-980fc25d72ad.PNG)
+
 
